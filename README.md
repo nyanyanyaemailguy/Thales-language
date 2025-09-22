@@ -6,3 +6,5 @@ brainfuck系のプログラミング言語です
 公式サイトはこちら: https://thalesofficial.gt.tc/index.php
 
 ただコード書いてみたい人向け(これは改行を出力できないよ):https://newbendyscontents.neocities.org/brainfuck
+
+サイト用のものは通常版とちょっとだけ違う
